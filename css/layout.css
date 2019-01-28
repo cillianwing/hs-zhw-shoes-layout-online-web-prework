@@ -46,3 +46,9 @@
   margin-left: 0%;
   margin-top: 0px;
 }
+
+.clearfix::after {
+  content: "";
+  clear: both;
+  display: table;
+}
