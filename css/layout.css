@@ -50,3 +50,7 @@
 .shadow {
   overflow: auto;
 }
+
+footer {
+  clear: both;
+}
